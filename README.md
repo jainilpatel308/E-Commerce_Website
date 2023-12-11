@@ -1,4 +1,4 @@
-# E-Commere_Website
+# E-Commerce_Website
 
 ![Home Page](https://github.com/jainilpatel308/E-Commere_Website/assets/107743635/fa2c70f6-0ed6-49e8-94f7-a45625657edc)
 ![orders page](https://github.com/jainilpatel308/E-Commere_Website/assets/107743635/f7fa2504-e107-402c-8f89-c362ac6a1ce5)
